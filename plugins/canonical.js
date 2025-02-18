@@ -12,7 +12,7 @@ export default ({ app }) => {
     // Tambahkan canonical URL yang baru
     app.head.link.push({
       rel: 'canonical',
-      href: `https://snoran-p.eu${to.path}`
+      href: `https://www.nibung88.eu.org${to.path}`
     })
   })
 } 
